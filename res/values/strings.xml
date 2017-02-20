@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_file">File</string>
+    <string name="tab_interface">Iface</string>
+    <string name="tab_savefile">Save</string>
+    <string name="tab_graph">Graph</string>
+    <string name="tab_etc">EX</string>
+    
+    
+    <string name="app_name">PcapMonitor</string>
+    <string name="fromfile">Select pcap file</string>
+    <string name="action_settings">Settings</string>
+    <string name="collapse_view">Collapse View</string>
+    <string name="frominterface">From Interface</string>
+    <string name="parsing">Parse</string>
+    <string name="loadfile">File</string>
+    <string name="capture">Capture</string>
+    <string name="stop">Stop</string>
+      
+    <string name="cancelButtonText">Cancel</string>
+    <string name="okButtonText">OK</string>
+    <string name="loadButtonText">Load</string>
+    <string name="accessDenied">Access denied</string>
+    <string name="missingFile">No such file</string>
+    <string name="fileNameFirstMessage">Please enter the file name first</string>    
+    <string name="information">Information</string>  
+    <string name="cannotSaveFileMessage">Cannot save file</string>
+    <string name="saveButtonText">Save</string>
+
+    
+</resources>
